@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles Vosloo      github profile: journeyman33 email: voslooc@gmail.com
 - 👀 I’m interested in DevOps and kubernetes
 - 🌱 I have completed kubernetes certfications CKA and CKS.
-- 🌱 I am persuing the Kodekloud Devops challenges, Dev Architect status.
+- 🌱 I am persuing the Kodekloud Devops challenges, DevOps Architect level.
 - 💞️ I am busy collaborating on aws projects.
 
 <!---
