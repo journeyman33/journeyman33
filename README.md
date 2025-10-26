@@ -28,10 +28,25 @@ a full-stack playground for AI-powered DevOps.
 This space explores how automation evolves into cognition — where **DevOps pipelines** begin to reason, adapt, and collaborate.
 
 ---
+
 <table>
 <tr>
-<th width="50%" align="center">Core Stack 🏛️</th>
-<th width="50%" align="center">New Stack ⚡</th>
+<th width="50%" align="left">
+  <table width="100%">
+    <tr>
+      <td align="left"><h3>Core Stack</h3></td>
+      <td align="right"><h3>🏛️</h3></td>
+    </tr>
+  </table>
+</th>
+<th width="50%" align="left">
+  <table width="100%">
+    <tr>
+      <td align="left"><h3>New Stack</h3></td>
+      <td align="right"><h3>⚡</h3></td>
+    </tr>
+  </table>
+</th>
 </tr>
 <tr>
 <td valign="top">
@@ -58,6 +73,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 </td>
 </tr>
 </table>
+
 
 
 ---
