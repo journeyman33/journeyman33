@@ -28,29 +28,35 @@ a full-stack playground for AI-powered DevOps.
 This space explores how automation evolves into cognition — where **DevOps pipelines** begin to reason, adapt, and collaborate.
 
 ---
-
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧱 Core Stack
-- **Kubernetes** · **Helm** · **ArgoCD**  
-- **GitHub Actions** · **Terraform**  
-- **AWS** · **Google Cloud** · **Azure**  
-- **MySQL** · **Prometheus** · **Grafana**
+### ⚙️ Core Stack
+| Domain | Tools & Tech |
+|--------|--------------|
+| Cloud & Infra | AWS · Docker · Kubernetes · Terraform |
+| CI/CD | GitHub Actions · ArgoCD · Jenkins |
+| Datastores | MySQL · Prometheus · Grafana |
+| Monitoring | Loki · ELK Stack |
 
 </td>
 <td valign="top" width="50%">
 
-### 🤖 Cognitive & Automation Stack
-- **Caddy** · **FastAPI** · **FastMCP**  
-- **n8n** · **Flowise** · **Ollama**  
-- **Postgres** · **Supabase** · **Qdrant** · **Neo4j**  
-- **LangChain** · **OpenAI API**
+### 🧠 Cognitive & Automation Stack
+| Domain | Tools & Tech |
+|--------|--------------|
+| Frameworks | FastAPI · FastMCP · Caddy |
+| Automation | n8n · Flowise · Ollama |
+| AI Orchestration | LangChain · OpenAI API |
+| Datastores | Supabase · Qdrant · Neo4j |
+| Cognitive Infra | Postgres · Docker Compose · Hostinger Cloud |
 
 </td>
 </tr>
 </table>
+
+
 
 
 ---
