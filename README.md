@@ -30,7 +30,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 ---
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### ⚙️ Core Stack
 | Domain | Tools & Tech |
@@ -41,7 +41,8 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Monitoring | Loki · ELK Stack |
 
 </td>
-<td valign="top" width="50%">
+
+<td valign="top" width="33%">
 
 ### 🧠 Cognitive & Automation Stack
 | Domain | Tools & Tech |
@@ -53,10 +54,19 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Cognitive Infra | Postgres · Docker Compose · Hostinger Cloud |
 
 </td>
+
+<td valign="top" width="34%">
+
+### 🧩 Programming & Configuration Languages
+| Category | Languages |
+|-----------|------------|
+| Programming | JavaScript · Go · TypeScript · Python |
+| Configuration | YAML · JSON · HCL (Terraform) |
+| Cognitive Languages | LLMs · Natural Language · LangGraph |
+
+</td>
 </tr>
 </table>
-
-
 
 
 ---
