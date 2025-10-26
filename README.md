@@ -33,7 +33,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 <tr>
 <td valign="top" width="50%">
 
-### ⚙️ Core Stack
+### 🏛️
 | Domain | Tools & Tech |
 |--------|--------------|
 | Cloud & Infra | AWS · Docker · Kubernetes · Terraform |
@@ -45,20 +45,18 @@ This space explores how automation evolves into cognition — where **DevOps pip
 </td>
 <td valign="top" width="50%">
 
-### 🧠  New Stack
+### ⚡
 | Domain | Tools & Tech |
 |--------|--------------|
 | Frameworks | FastAPI · FastMCP · Caddy |
 | Automation | n8n · Flowise · Ollama |
 | AI Orchestration | LangChain · OpenAI API |
 | Datastores | Supabase · Qdrant · Neo4j |
-| Languages | Natural Language (LLMs) · Python · LangGraph · Typescript|
+| Languages | LLMs · Natural Language · Python · LangGraph · TypeScript |
 
 </td>
 </tr>
 </table>
-
-
 
 ---
 
