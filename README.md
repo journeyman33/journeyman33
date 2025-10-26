@@ -45,7 +45,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 </td>
 <td valign="top" width="50%">
 
-### 🟡 New Stack
+### 🧠  New Stack
 | Domain | Tools & Tech |
 |--------|--------------|
 | Frameworks | FastAPI · FastMCP · Caddy |
