@@ -28,9 +28,10 @@ a full-stack playground for AI-powered DevOps.
 This space explores how automation evolves into cognition — where **DevOps pipelines** begin to reason, adapt, and collaborate.
 
 ---
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### ⚙️ Core Stack
 | Domain | Tools & Tech |
@@ -40,9 +41,14 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Datastores | MySQL · Prometheus · Grafana |
 | Monitoring | Loki · ELK Stack |
 
-</td>
+### 🧩 Programming & Configuration
+| Category | Languages |
+|-----------|------------|
+| Programming | JavaScript · Go |
+| Configuration | YAML · JSON · HCL (Terraform) |
 
-<td valign="top" width="33%">
+</td>
+<td valign="top" width="50%">
 
 ### 🧠 Cognitive & Automation Stack
 | Domain | Tools & Tech |
@@ -53,16 +59,11 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Datastores | Supabase · Qdrant · Neo4j |
 | Cognitive Infra | Postgres · Docker Compose · Hostinger Cloud |
 
-</td>
-
-<td valign="top" width="34%">
-
-### 🧩 Programming & Configuration Languages
+### 🧩 Programming & Configuration
 | Category | Languages |
 |-----------|------------|
-| Programming | JavaScript · Go · TypeScript · Python |
-| Configuration | YAML · JSON · HCL (Terraform) |
-| Cognitive Languages | LLMs · Natural Language · LangGraph |
+| Programming | TypeScript · Python |
+| Cognitive | LLMs · Natural Language · LangGraph |
 
 </td>
 </tr>
