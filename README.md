@@ -52,8 +52,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Automation | n8n · Flowise · Ollama |
 | AI Orchestration | LangChain · OpenAI API |
 | Datastores | Supabase · Qdrant · Neo4j |
-| Cognitive Infra | Postgres · Docker Compose · Hostinger Cloud |
-| Languages | TypeScript · Python · LLMs · Natural Language · LangGraph |
+| Languages | Natural Language (LLMs) · Python · LangGraph · Typescript|
 
 </td>
 </tr>
