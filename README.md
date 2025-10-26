@@ -29,15 +29,29 @@ This space explores how automation evolves into cognition — where **DevOps pip
 
 ---
 
-### ⚙️ Core Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Domain | Tools & Tech |
-|--------|--------------|
-| Cloud & Infra | AWS · Docker · Kubernetes · Terraform |
-| CI/CD | GitHub Actions · ArgoCD · Jenkins |
-| AI Orchestration | Flowise · n8n · LangChain · OpenAI API |
-| Datastores | Supabase · Qdrant · Neo4j |
-| Monitoring | Prometheus · Grafana · Loki |
+### 🧱 Core Stack
+- **Kubernetes** · **Helm** · **ArgoCD**  
+- **GitHub Actions** · **Terraform**  
+- **AWS** · **Google Cloud** · **Azure**  
+- **MySQL** · **Prometheus** · **Grafana**
+
+</td>
+<td valign="top" width="50%">
+
+### 🤖 Cognitive & Automation Stack
+- **Caddy** · **FastAPI** · **FastMCP**  
+- **n8n** · **Flowise** · **Ollama**  
+- **Postgres** · **Supabase** · **Qdrant** · **Neo4j**  
+- **LangChain** · **OpenAI API**
+
+</td>
+</tr>
+</table>
+
 
 ---
 
