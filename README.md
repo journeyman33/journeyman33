@@ -18,14 +18,14 @@ a full-stack playground for AI-powered DevOps.
 
 </td>
 </tr>
-</table>
+</table> 
+
 ---
 
 ### 🧭 About This Space
 
-I treat infrastructure as narrative.  
-Here you’ll find experiments that connect **DevOps pipelines** with **AI orchestration** — everything from  
-Kubernetes storytelling (✅ kubernetes-resume-challenge) to **multi-agent automation** at [mindset-dev](https://github.com/mindset-dev).
+**Infrastructure is a living narrative — one that’s now being rewritten by AI.**  
+This space explores how automation evolves into cognition — where **DevOps pipelines** begin to reason, adapt, and collaborate.
 
 ---
 
