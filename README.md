@@ -40,17 +40,12 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | CI/CD | GitHub Actions · ArgoCD · Jenkins |
 | Datastores | MySQL · Prometheus · Grafana |
 | Monitoring | Loki · ELK Stack |
-
-### 🧩 Programming & Configuration
-| Category | Languages |
-|-----------|------------|
-| Programming | JavaScript · Go |
-| Configuration | YAML · JSON · HCL (Terraform) |
+| Languages | JavaScript · Go · YAML · JSON · HCL (Terraform) |
 
 </td>
 <td valign="top" width="50%">
 
-### 🧠 Cognitive & Automation Stack
+### 🟡 New Stack
 | Domain | Tools & Tech |
 |--------|--------------|
 | Frameworks | FastAPI · FastMCP · Caddy |
@@ -58,16 +53,12 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | AI Orchestration | LangChain · OpenAI API |
 | Datastores | Supabase · Qdrant · Neo4j |
 | Cognitive Infra | Postgres · Docker Compose · Hostinger Cloud |
-
-### 🧩 Programming & Configuration
-| Category | Languages |
-|-----------|------------|
-| Programming | TypeScript · Python |
-| Cognitive | LLMs · Natural Language · LangGraph |
+| Languages | TypeScript · Python · LLMs · Natural Language · LangGraph |
 
 </td>
 </tr>
 </table>
+
 
 
 ---
