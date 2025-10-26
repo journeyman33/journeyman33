@@ -28,12 +28,14 @@ a full-stack playground for AI-powered DevOps.
 This space explores how automation evolves into cognition — where **DevOps pipelines** begin to reason, adapt, and collaborate.
 
 ---
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<th width="50%" align="center">Core Stack 🏛️</th>
+<th width="50%" align="center">New Stack ⚡</th>
+</tr>
+<tr>
+<td valign="top">
 
-### 🏛️
 | Domain | Tools & Tech |
 |--------|--------------|
 | Cloud & Infra | AWS · Docker · Kubernetes · Terraform |
@@ -43,9 +45,8 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Languages | JavaScript · Go · YAML · JSON · HCL (Terraform) |
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-### ⚡
 | Domain | Tools & Tech |
 |--------|--------------|
 | Frameworks | FastAPI · FastMCP · Caddy |
@@ -57,6 +58,7 @@ This space explores how automation evolves into cognition — where **DevOps pip
 </td>
 </tr>
 </table>
+
 
 ---
 
