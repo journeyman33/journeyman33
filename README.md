@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 👋 **Hi, I'm Charles** — DevOps engineer and automation enthusiast.  
 💡 Passionate about AI, Kubernetes, CI/CD, and infrastructure as code.  
@@ -8,19 +8,17 @@
 🚀 Collaborating on AWS-based and AI-agent projects.
 
 </td>
-<td>
+<td valign="top" width="50%">
 
 🧠 **AI Lab / mindset-dev**  
 Building multi-agent frameworks with  
-Flowise • n8n • Supabase • Qdrant • Neo4j • dot-ai • Archon.  
+Flowise · n8n · Supabase · Qdrant · Neo4j · dot-ai · Archon.  
 All self-hosted via Docker Compose on **Hostinger Cloud** —  
 a full-stack playground for AI-powered DevOps.
 
 </td>
 </tr>
 </table>
-
-
 ---
 
 ### 🧭 About This Space
@@ -52,8 +50,9 @@ Kubernetes storytelling (✅ kubernetes-resume-challenge) to **multi-agent autom
 
 ---
 
-> **"AI didn’t take my job — it just added me to its CI/CD pipeline."** 🤖🚀
 
+> 🧠 **"AI is not the next industrial revolution — it’s the first cognitive one."**  
+> _A new epoch of intelligence is already compiling._ ⚙️
 
 
 
