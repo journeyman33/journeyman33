@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Charles Vosloo      github profile: journeyman33 email: voslooc@gmail.com
-- 👀 I’m interested in DevOps and kubernetes
-- 🌱 I have completed kubernetes certfications CKA and CKS.
-- 🌱 I am persuing the Kodekloud Devops challenges, DevOps Architect level.
-- 💞️ I am busy collaborating on aws projects.
+👋 Hi, I'm Charles — DevOps engineer and automation enthusiast.  
+💡 Passionate about AI, Kubernetes, CI/CD, and infrastructure as code.  
+🎓 Certified CKA & CKS | Pursuing KodeKloud DevOps Architect.  
+🚀 Currently collaborating on AWS-based and AI agent projects.
 
 <!---
 journeyman33/journeyman33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
