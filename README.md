@@ -29,14 +29,19 @@ This space explores how automation evolves into cognition — where **DevOps pip
 
 ---
 
-
 <table width="100%">
 <tr>
-  <td align="left" width="50%">
-    <h3>Core Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️</h3>
+  <td width="50%">
+    <div style="display:flex;align-items:center;justify-content:space-between;">
+      <div><h3 style="margin:0;">⚙️ Core Stack</h3></div>
+      <div><h3 style="margin:0;">🏛️</h3></div>
+    </div>
   </td>
-  <td align="left" width="50%">
-    <h3>New Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡</h3>
+  <td width="50%">
+    <div style="display:flex;align-items:center;justify-content:space-between;">
+      <div><h3 style="margin:0;">🧠 New Stack</h3></div>
+      <div><h3 style="margin:0;">⚡</h3></div>
+    </div>
   </td>
 </tr>
 <tr>
@@ -64,6 +69,8 @@ This space explores how automation evolves into cognition — where **DevOps pip
   </td>
 </tr>
 </table>
+
+
 
 
 
