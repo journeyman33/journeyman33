@@ -30,13 +30,17 @@ This space explores how automation evolves into cognition — where **DevOps pip
 ---
 
 
+
 <table width="100%">
 <tr>
   <td width="50%" valign="top">
-    <h3>
-      <span style="display:inline-block; width:45%;">⚙️ Core Stack</span>
-      <span style="display:inline-block; width:45%; text-align:right;">🏛️</span>
-    </h3>
+    <table width="100%">
+      <tr>
+        <td align="left" width="40%"><h3>⚙️ Core Stack</h3></td>
+        <td width="20%"></td>
+        <td align="right" width="40%"><h3>🏛️</h3></td>
+      </tr>
+    </table>
 
 | Domain | Tools & Tech |
 |--------|--------------|
@@ -47,11 +51,15 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Languages | JavaScript · Go · YAML · JSON · HCL (Terraform) |
 
   </td>
+
   <td width="50%" valign="top">
-    <h3>
-      <span style="display:inline-block; width:45%;">🧠 New Stack</span>
-      <span style="display:inline-block; width:45%; text-align:right;">⚡</span>
-    </h3>
+    <table width="100%">
+      <tr>
+        <td align="left" width="40%"><h3>🧠 New Stack</h3></td>
+        <td width="20%"></td>
+        <td align="right" width="40%"><h3>⚡</h3></td>
+      </tr>
+    </table>
 
 | Domain | Tools & Tech |
 |--------|--------------|
@@ -64,7 +72,6 @@ This space explores how automation evolves into cognition — where **DevOps pip
   </td>
 </tr>
 </table>
-
 
 
 
