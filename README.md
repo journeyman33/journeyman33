@@ -30,17 +30,13 @@ This space explores how automation evolves into cognition — where **DevOps pip
 ---
 
 
-
 <table width="100%">
 <tr>
-  <td width="50%" valign="top">
-    <table width="100%">
-      <tr>
-        <td align="left" width="40%"><h3>⚙️ Core Stack</h3></td>
-        <td width="20%"></td>
-        <td align="right" width="40%"><h3>🏛️</h3></td>
-      </tr>
-    </table>
+  <td width="50%" align="left"><h3>⚙️ Core Stack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️</h3></td>
+  <td width="50%" align="left"><h3>🧠 New Stack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡</h3></td>
+</tr>
+<tr>
+<td valign="top">
 
 | Domain | Tools & Tech |
 |--------|--------------|
@@ -50,16 +46,8 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Monitoring | Loki · ELK Stack |
 | Languages | JavaScript · Go · YAML · JSON · HCL (Terraform) |
 
-  </td>
-
-  <td width="50%" valign="top">
-    <table width="100%">
-      <tr>
-        <td align="left" width="40%"><h3>🧠 New Stack</h3></td>
-        <td width="20%"></td>
-        <td align="right" width="40%"><h3>⚡</h3></td>
-      </tr>
-    </table>
+</td>
+<td valign="top">
 
 | Domain | Tools & Tech |
 |--------|--------------|
@@ -69,9 +57,10 @@ This space explores how automation evolves into cognition — where **DevOps pip
 | Datastores | Supabase · Qdrant · Neo4j |
 | Languages | LLMs · Natural Language · Python · LangGraph · TypeScript |
 
-  </td>
+</td>
 </tr>
 </table>
+
 
 
 
